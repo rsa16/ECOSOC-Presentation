@@ -3,7 +3,7 @@
 A real-time participatory mapping initiative at the *2026 ECOSOC Youth Forum* to collect and map global youth programs, regions, and constraints. The aim was to turn our conversations at ECOSOC into a real-time map of global
 youth innovation systems, so we can better understand where support is needed and how to act on it.
 
-<video src="https://rsaaa.xyz/hosted-files/demo.mp4" width="100%" height="100%" controls></video>
+https://github.com/user-attachments/assets/8a95e75b-fdf5-42b5-8a61-eba2928a7e20
 
 ## Table of Contents
 
