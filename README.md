@@ -3,7 +3,7 @@
 A real-time participatory mapping initiative at the *2026 ECOSOC Youth Forum* to collect and map global youth programs, regions, and constraints. The aim was to turn our conversations at ECOSOC into a real-time map of global
 youth innovation systems, so we can better understand where support is needed and how to act on it.
 
-https://github.com/user-attachments/assets/8a95e75b-fdf5-42b5-8a61-eba2928a7e20
+https://github.com/user-attachments/assets/6fa564c1-7b32-4dc6-899e-37bed99a325a
 
 ## Table of Contents
 
@@ -14,10 +14,10 @@ https://github.com/user-attachments/assets/8a95e75b-fdf5-42b5-8a61-eba2928a7e20
   - [Installation](#installation)
   - [Environment Variables](#environment-variables)
   - [Running Locally](#running-locally)
+  - [Building for Production](#building-for-production)
 - [Database Schema](#database-schema)
 - [Deployment](#deployment)
 - [License](#license)
-
 
 ## Why We Built This
 
