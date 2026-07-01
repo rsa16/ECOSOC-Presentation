@@ -3,7 +3,7 @@
 A real-time participatory mapping initiative at the *2026 ECOSOC Youth Forum* to collect and map global youth programs, regions, and constraints. The aim was to turn our conversations at ECOSOC into a real-time map of global
 youth innovation systems, so we can better understand where support is needed and how to act on it.
 
-<iframe src="https://player.vimeo.com/video/1205991019?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" title="HTSI ECOSOC Map - Demo"></iframe>
+https://rsaaa.xyz/hosted-files/demo.mp4
 
 ## Table of Contents
 
